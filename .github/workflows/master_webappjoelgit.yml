@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'WebAppJoelGit'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F3AC42C73B95426AB2CD323FC4FFF02E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1B44A892F309464D9BE2C6C27D758822 }}
           package: .
